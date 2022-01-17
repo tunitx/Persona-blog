@@ -1,0 +1,22 @@
+body {
+    /* background-color: brown; */
+    background-color: lightgray;
+}
+hr {
+      border-style: none;
+    border-top-style: dotted;
+    width: 25%;
+    border-color: cadetblue;
+    border-width: 3px;
+}
+h1 {
+    /* background-color: darksalmon; */
+    color: blue;
+    
+}
+h2 {
+    color: blue;
+}
+h3 {
+    color: blue;
+}
