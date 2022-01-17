@@ -11,7 +11,7 @@ hr {
 }
 h1 {
     /* background-color: darksalmon; */
-    color: darkblue;
+    color: darkblue; font-size: 50px;
     
 }
 h2 {
@@ -20,3 +20,19 @@ h2 {
 h3 {
     color: darkblue;
 }
+ /* .target {
+    color: cornflowerblue;
+    transition: margin-right 2s, color 1s;
+}
+.target:hover {
+    color: darkblue;
+    
+}  */
+.target {
+    font-size: 14px;
+    transition: font-size 2s 0.5s;
+  }
+  
+  .target:hover {
+    font-size: 25px;
+  }
